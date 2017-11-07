@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DictionBin
+comment1.params=
+comment1.target=DictionBin()
+comment2.params=eng
+comment2.target=java.lang.String\ translate(java.lang.String)
+comment3.params=eng\ lo\ hi
+comment3.target=java.lang.String\ translateB(java.lang.String,\ int,\ int)
+numComments=4

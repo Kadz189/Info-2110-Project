@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Reader
+comment1.params=u
+comment1.target=Reader(UI)
+comment2.params=
+comment2.target=void\ translateFile()
+comment3.params=sentence
+comment3.target=void\ translateText(java.lang.String)
+comment4.params=announcementMessage
+comment4.target=void\ say(java.lang.String)
+comment5.params=
+comment5.target=void\ listAllVoices()
+numComments=6

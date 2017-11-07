@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DictionSeq
+comment1.params=
+comment1.target=DictionSeq()
+comment2.params=eng
+comment2.target=java.lang.String\ translate(java.lang.String)
+comment3.params=eng
+comment3.target=java.lang.String\ translateS(java.lang.String)
+numComments=4
